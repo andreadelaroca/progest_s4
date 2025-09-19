@@ -1,0 +1,15 @@
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\obj\Debug\net9.0\calcarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\obj\Debug\net9.0\calcarea.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\obj\Debug\net9.0\calcarea.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\obj\Debug\net9.0\calcarea.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\obj\Debug\net9.0\calcarea.sourcelink.json
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\bin\Debug\net9.0\calcarea.exe
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\bin\Debug\net9.0\calcarea.deps.json
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\bin\Debug\net9.0\calcarea.runtimeconfig.json
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\bin\Debug\net9.0\calcarea.dll
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\bin\Debug\net9.0\calcarea.pdb
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\obj\Debug\net9.0\calcarea.dll
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\obj\Debug\net9.0\refint\calcarea.dll
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\obj\Debug\net9.0\calcarea.pdb
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\obj\Debug\net9.0\calcarea.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\calcarea\obj\Debug\net9.0\ref\calcarea.dll
