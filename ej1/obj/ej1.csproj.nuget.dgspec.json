@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minit\\OneDrive\\Documentos\\PROGEST\\s4\\ej1\\ej1.csproj": {}
+    "C:\\Users\\Carlos\\Desktop\\Documentos\\Git\\progest_s4\\ej1\\ej1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minit\\OneDrive\\Documentos\\PROGEST\\s4\\ej1\\ej1.csproj": {
+    "C:\\Users\\Carlos\\Desktop\\Documentos\\Git\\progest_s4\\ej1\\ej1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minit\\OneDrive\\Documentos\\PROGEST\\s4\\ej1\\ej1.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos\\Desktop\\Documentos\\Git\\progest_s4\\ej1\\ej1.csproj",
         "projectName": "ej1",
-        "projectPath": "C:\\Users\\minit\\OneDrive\\Documentos\\PROGEST\\s4\\ej1\\ej1.csproj",
-        "packagesPath": "C:\\Users\\minit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minit\\OneDrive\\Documentos\\PROGEST\\s4\\ej1\\obj\\",
+        "projectPath": "C:\\Users\\Carlos\\Desktop\\Documentos\\Git\\progest_s4\\ej1\\ej1.csproj",
+        "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos\\Desktop\\Documentos\\Git\\progest_s4\\ej1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\minit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

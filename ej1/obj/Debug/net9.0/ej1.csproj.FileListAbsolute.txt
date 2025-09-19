@@ -1,0 +1,15 @@
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\obj\Debug\net9.0\ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\obj\Debug\net9.0\ej1.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\obj\Debug\net9.0\ej1.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\obj\Debug\net9.0\ej1.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\obj\Debug\net9.0\ej1.sourcelink.json
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\bin\Debug\net9.0\ej1.exe
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\bin\Debug\net9.0\ej1.deps.json
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\bin\Debug\net9.0\ej1.runtimeconfig.json
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\bin\Debug\net9.0\ej1.dll
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\bin\Debug\net9.0\ej1.pdb
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\obj\Debug\net9.0\ej1.dll
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\obj\Debug\net9.0\refint\ej1.dll
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\obj\Debug\net9.0\ej1.pdb
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\obj\Debug\net9.0\ej1.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Documentos\Git\progest_s4\ej1\obj\Debug\net9.0\ref\ej1.dll
