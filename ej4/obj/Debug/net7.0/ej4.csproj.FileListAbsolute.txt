@@ -1,0 +1,15 @@
+C:\Users\labc201\Desktop\progest_s4\ej4\bin\Debug\net7.0\ej4.exe
+C:\Users\labc201\Desktop\progest_s4\ej4\bin\Debug\net7.0\ej4.deps.json
+C:\Users\labc201\Desktop\progest_s4\ej4\bin\Debug\net7.0\ej4.runtimeconfig.json
+C:\Users\labc201\Desktop\progest_s4\ej4\bin\Debug\net7.0\ej4.dll
+C:\Users\labc201\Desktop\progest_s4\ej4\bin\Debug\net7.0\ej4.pdb
+C:\Users\labc201\Desktop\progest_s4\ej4\obj\Debug\net7.0\ej4.csproj.AssemblyReference.cache
+C:\Users\labc201\Desktop\progest_s4\ej4\obj\Debug\net7.0\ej4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc201\Desktop\progest_s4\ej4\obj\Debug\net7.0\ej4.AssemblyInfoInputs.cache
+C:\Users\labc201\Desktop\progest_s4\ej4\obj\Debug\net7.0\ej4.AssemblyInfo.cs
+C:\Users\labc201\Desktop\progest_s4\ej4\obj\Debug\net7.0\ej4.csproj.CoreCompileInputs.cache
+C:\Users\labc201\Desktop\progest_s4\ej4\obj\Debug\net7.0\ej4.dll
+C:\Users\labc201\Desktop\progest_s4\ej4\obj\Debug\net7.0\refint\ej4.dll
+C:\Users\labc201\Desktop\progest_s4\ej4\obj\Debug\net7.0\ej4.pdb
+C:\Users\labc201\Desktop\progest_s4\ej4\obj\Debug\net7.0\ej4.genruntimeconfig.cache
+C:\Users\labc201\Desktop\progest_s4\ej4\obj\Debug\net7.0\ref\ej4.dll
